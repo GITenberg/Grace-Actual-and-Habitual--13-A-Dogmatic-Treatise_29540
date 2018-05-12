@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33980'
     url: http://www.gutenberg.org/2009/agents/33980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29540#Grace-Actual-and-Habitual--13-A-Dogmatic-Treatise
 gutenberg_issued: '2009-07-29'
 gutenberg_type: Text
 identifiers:
